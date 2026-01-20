@@ -2,7 +2,7 @@
 
 Sophomore at University of Louisville<br>
 Computer Science & Engineering<br>
-Learning deeper levels of abstraction<br>
+Learning at deeper levels of abstraction<br>
 
 ---
 
