@@ -1,8 +1,8 @@
 # Palmer Clark
 
 Sophomore at University of Louisville
-Computer Science & Engineering
-Learning deeper levels of abstraction
+Computer Science & Engineering<br>
+Learning deeper levels of abstraction<br>
 
 ---
 
